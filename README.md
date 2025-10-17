@@ -14,8 +14,8 @@ Dependency library:
 2. Opencv  
 3. Matlab (only for *.MAT file output supported)
   
-Researchers interested in these can follow the authors YIN,ZHUOYI(Southeast University) in Google Scholar.
+Researchers interested in these can follow the authors YIN,ZHUOYI(Nanjing University of Science and Technology) in Google Scholar.
 
 [1] Yuan F, Ren X, Pan R, et al. Tensile Construction Monitoring and Progressive Collapse Test of Suspen-Dome Structure Based on UAV-Assisted Close-Range Photogrammetry and Multi-Camera Stereo-Digital Image Correlation[J]. Experimental Mechanics, 2023, 63(8): 1371-1389.  
-[2] It will be replaced with an arvix link within a week.
+[2] Yin Zhuoyi, She Peiyun, Fang Yuan, et al. Eccentricity Compensation for Multi-View Circle Positioning Based on Geometric Constraints [J]. Optics & Laser Technology, 2025, 192:113978.
 
