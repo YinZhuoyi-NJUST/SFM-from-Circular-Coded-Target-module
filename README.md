@@ -17,6 +17,8 @@ Dependency library:
 Researchers interested in these can follow the authors YIN,ZHUOYI(Nanjing University of Science and Technology) in Google Scholar.
 
 [1] Yin Zhuoyi, She Peiyun, Fang Yuan, et al. Eccentricity Compensation for Multi-View Circle Positioning Based on Geometric Constraints [J]. Optics & Laser Technology, 2025, 192:113978.
+
 [2] Yin Z, Chen Y, She P, et al. Modeling the measurement precision of a multi-camera system[J]. Optics Letters, 2025, 50(21): 6489-6492.
+
 [3] Yuan F, Ren X, Pan R, et al. Tensile Construction Monitoring and Progressive Collapse Test of Suspen-Dome Structure Based on UAV-Assisted Close-Range Photogrammetry and Multi-Camera Stereo-Digital Image Correlation[J]. Experimental Mechanics, 2023, 63(8): 1371-1389.  
 
